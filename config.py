@@ -1,7 +1,6 @@
 import requests
 from enum import Enum
-qiwiop = '18d97b25e22a7cc07876d7fdbe1aeb22'
-db_file = "database.vdb"
+
 
 class States(Enum):
 
