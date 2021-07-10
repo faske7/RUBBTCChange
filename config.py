@@ -12,8 +12,6 @@ class States(Enum):
     S_ENTER_MENU = "5"
     S_ENTER_4DIGIT = "6"
 
-token = '1847082698:AAEj5zUxRXbAhARX2-tib_fQwdd203nUawQ'
-#token = '860458112:AAE9jtvs6PGV8M4wQaDMmk9JKCddwUt524A'
 
 
 
